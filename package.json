@@ -1,0 +1,15 @@
+{
+  "name": "simon-says-game",
+  "version": "1.0.0",
+  "description": "A Simon Says game with Firebase integration",
+  "main": "index.html",
+  "scripts": {
+    "deploy": "firebase deploy",
+    "serve": "firebase serve"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "firebase-tools": "^12.0.0"
+  }
+}
